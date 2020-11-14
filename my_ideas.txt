@@ -1,1 +1,2 @@
 This is great!
+and I added a new line
